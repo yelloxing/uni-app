@@ -1,6 +1,6 @@
 <template>
 	<view>
-		<web-view src='https://hai2007.gitee.io/clunch/'></web-view>
+		我的
 	</view>
 </template>
 
