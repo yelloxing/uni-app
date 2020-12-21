@@ -4,7 +4,7 @@
   "description": "uni-app 学习项目",
   "main": "main.js",
   "dependencies": {
-    "clunch": "^0.1.2"
+    "clunch": "^0.2.2"
   },
   "devDependencies": {},
   "scripts": {
