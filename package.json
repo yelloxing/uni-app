@@ -4,6 +4,7 @@
   "description": "uni-app 学习项目",
   "main": "main.js",
   "dependencies": {
+    "@dcloudio/uni-ui": "^1.2.10",
     "clunch": "^0.2.2"
   },
   "devDependencies": {},

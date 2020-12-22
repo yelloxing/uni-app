@@ -1,7 +1,7 @@
 <template>
 	<view>
 		<view>
-			测试clunch如何在uni-app中进行支持
+			1.测试clunch如何在uni-app中进行支持
 		</view>
 		<view id='canvas' style="width: 750rpx; height: 200px;">
 		</view>

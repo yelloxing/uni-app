@@ -17,6 +17,13 @@
 		"navigationBarBackgroundColor": "#F8F8F8",
 		"backgroundColor": "#F8F8F8"
 	},
+	"easycom":{
+		"autoscan":true,
+		"custom":{
+			// 这里的引入是为了可以直接使用这个组件库中的东西
+			"^uni-(.*)": "@dcloudio/uni-ui/lib/uni-$1/uni-$1.vue"
+		}
+	},
 	"tabBar": {
 		"position":"top",
 		"list": [{

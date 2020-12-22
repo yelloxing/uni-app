@@ -1,6 +1,8 @@
 <template>
 	<view>
-		关于我们
+		<view>
+			3.基本练习
+		</view>
 		<navigator url="../AboutUS-Detail/AboutUS-Detail">
 			<button type="primary">
 				点击查看具体内容
