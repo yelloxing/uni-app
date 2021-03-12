@@ -5,7 +5,8 @@
   "main": "main.js",
   "dependencies": {
     "@dcloudio/uni-ui": "^1.2.10",
-    "clunch": "^0.2.2"
+    "@hai2007/algorithm": "^0.5.1",
+    "@hai2007/tool": "^0.6.2"
   },
   "devDependencies": {},
   "scripts": {
@@ -15,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/yelloxing/uni-app.git"
   },
-  "author": "",
+  "author": "心叶",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yelloxing/uni-app/issues"
